@@ -1,16 +1,28 @@
 # GDG PUP Webverse vol. 2: JavaScript & DOM Manipulation - Boilerplate
 
-## ❓ What is the purpose of this repository?
+Starter code for the Live Coding Session. During the session, we populate these files to build a Pomodoro Timer with focus modes, controls, and session tracking.
+
+## Table of Contents
+
+- [About](#about)
+- [What these files are for](#what-these-files-are-for)
+- [Quick start](#quick-start)
+- [What we'll learn](#what-well-learn)
+- [Code structure overview](#code-structure-overview)
+- [Documentation](#documentation)
+- [Contributors](#contributors)
+
+## About
 
 This is the starter code for the **Live Coding Session**. During the session, we will populate these files to build a **Pomodoro Timer** featuring:
 
-- ⏱️ Focus, Short Break, and Long Break modes
-- ▶️ Start/Pause/Reset controls with live countdown
-- 🔄 SVG progress ring animation
-- 🎨 Dynamic theme colors based on mode
-- 📊 Session tracking
+- Focus, Short Break, and Long Break modes
+- Start/Pause/Reset controls with live countdown
+- SVG progress ring animation
+- Dynamic theme colors based on mode
+- Session tracking
 
-## 📂 What are these files for?
+## What these files are for
 
 | File | Description |
 |------|-------------|
@@ -18,7 +30,7 @@ This is the starter code for the **Live Coding Session**. During the session, we
 | `styles/pomodoro.css` | Contains CSS variables, GDG color palette, and all styling (pre-built). |
 | `js/main.js` | **The main file we'll code together!** Contains the skeleton structure with comments and hints. |
 
-## 📥 How to get your own copy?
+## Quick start
 
 ### Option 1: Download ZIP (Easiest)
 
@@ -34,13 +46,13 @@ Open your terminal (Command Prompt or PowerShell) and run:
 git clone https://github.com/gdg-pup-webdev/sj2-boilerplate.git
 ```
 
-## 🏃‍♂️ How do I start?
+### Run locally
 
 1. Open this folder in **VS Code**.
 2. Right-click `pomodoro.html` and select **"Open with Live Server"**.
 3. Follow along with the speaker!
 
-## 🧠 What we'll learn
+## What we'll learn
 
 During this session, we'll cover the following JavaScript concepts:
 
@@ -52,7 +64,7 @@ During this session, we'll cover the following JavaScript concepts:
 - **Conditionals** - Handling different timer modes
 - **CSS Custom Properties** - Changing theme colors with JavaScript
 
-## 📝 Code Structure Overview
+## Code structure overview
 
 The `js/main.js` file is organized into 5 sections:
 
@@ -62,16 +74,16 @@ The `js/main.js` file is organized into 5 sections:
 4. **Event Listeners** - Connecting buttons to functions
 5. **Initialization** - Starting the app
 
-Happy coding! 🎉
-
----
+Happy coding!
 
 ## Documentation
 
-- [docs/state.md](docs/state.md) - Teaching position / handover
-- [docs/index.md](docs/index.md) - Doc inventory
-- [FLAGS.md](FLAGS.md) - Improvement register
-- [AGENTS.md](AGENTS.md) - Agent load order
+| Doc | Purpose |
+| --- | --- |
+| [State](docs/state.md) | Operate position / teaching handover |
+| [Index](docs/index.md) | Document manifest |
+| [FLAGS](FLAGS.md) | Improvement register |
+| [AGENTS](AGENTS.md) | Agent read order |
 
 ## Contributors
 
