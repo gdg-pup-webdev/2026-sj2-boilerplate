@@ -1,10 +1,16 @@
 # GDG PUP Webverse vol. 2: JavaScript & DOM Manipulation - Boilerplate
 
+[![Status: Teaching](https://img.shields.io/badge/Status-Teaching-blue)](docs/state.md)
+[![Stack: JavaScript](https://img.shields.io/badge/Stack-JavaScript-black)](#about)
+[![FMD philosophy: 1.31.0](https://img.shields.io/badge/FMD%20philosophy-1.31.0-blue)](AGENTS.md)
+
+
 Starter code for the Live Coding Session. During the session, we populate these files to build a Pomodoro Timer with focus modes, controls, and session tracking.
 
 ## Table of Contents
 
 - [About](#about)
+- [Start here](#start-here)
 - [What these files are for](#what-these-files-are-for)
 - [Quick start](#quick-start)
 - [What we'll learn](#what-well-learn)
@@ -21,6 +27,12 @@ This is the starter code for the **Live Coding Session**. During the session, we
 - SVG progress ring animation
 - Dynamic theme colors based on mode
 - Session tracking
+
+## Start here
+
+- **Humans:** this README, then [docs/state.md](docs/state.md)
+- **Agents:** [AGENTS.md](AGENTS.md) (state → index → FLAGS)
+- **Contributors:** table below
 
 ## What these files are for
 
@@ -87,9 +99,11 @@ Happy coding!
 
 ## Contributors
 
-This project is made possible by the GDG PUP community:
+This project is made possible by the GDG PUP community.
 
-| Role | Name |
-| --- | --- |
-| Development | [Gerald Berongoy](https://www.linkedin.com/in/geraldberongoy) - Senior Backend Developer / Web Development Learning Head |
-| Development | Randall Graida |
+| Name | Role | GitHub |
+| --- | --- | --- |
+| [Carlos Jerico Dela Torre](https://www.linkedin.com/in/delatorrecj) | Chief Technology Officer (2025-2026) | [@delatorrecj](https://github.com/delatorrecj) |
+| [Gerald Berongoy](https://www.linkedin.com/in/geraldberongoy) | Senior Backend Developer / Web Development Learning Head | [@geraldsberongoy](https://github.com/geraldsberongoy) |
+| Randall Graida | Development |  |
+
